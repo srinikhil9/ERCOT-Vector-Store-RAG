@@ -1,0 +1,22 @@
+﻿# General
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Env
+.env
+.env.*
+
+# Langflow
+langflow.db
